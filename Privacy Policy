@@ -1,0 +1,1 @@
+The application is using the device's camera for the purpose of analyzing any found code recognized to be part of the Croatian payment order. Such image is not retained. The data from those code is displayed to the user. It is not stored on the device, nor shared, unless the user shares it.
